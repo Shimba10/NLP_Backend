@@ -1,0 +1,47 @@
+# .gitignore
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment-related files
+.env
+
+# Ignore generated files and directories
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+instance/
+build/
+dist/
+*.egg-info/
+
+# Ignore runtime and log files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+logs/
+*.log
+*.pot
+*.po
+*.mo
+*.swp
+*.db
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+*.iml
+
+# Ignore pycache, cache, and local settings
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.cache/
+*.log
+*.sqlite
