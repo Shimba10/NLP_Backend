@@ -1,4 +1,4 @@
-
+Suggestion ->  After entering the main.py command in the console, please wait for 5 minutes to load the transformer models in your system. 
 ## Main Steps and Motivation for Data Processing:
 
 - Loaded data from a CSV file into a DataFrame.
